@@ -14,8 +14,8 @@ const Hero = (props) => (
       <SectionText>
         Sure let me know what you think Frankie
       </SectionText>
+      <Button onClick={() => window.location = "https://google.com"}> Learn More</Button>
     </LeftSection>
-    <Button onClick={() => window.location = "https://google.com"}> Learn More</Button>
   </Section>
 );
 

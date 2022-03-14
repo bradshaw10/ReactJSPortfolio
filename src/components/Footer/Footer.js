@@ -6,9 +6,19 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 const Footer = () => {
   return (
-    <div>
-      Footer
-    </div>
+    <FooterWrapper>
+      <LinkList>
+        <LinkColumn>
+          <LinkTitle>Call</LinkTitle>
+          <LinkItem href='tel:+959889461'>+959889461</LinkItem>
+        </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Email</LinkTitle>
+          <LinkItem href='mailto:eoghanbradshaw@gmail.com'>eoghanbradshaw@gmail.com</LinkItem>
+        </LinkColumn>
+      </LinkList>
+    </FooterWrapper>
+
   );
 };
 

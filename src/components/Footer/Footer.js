@@ -18,8 +18,7 @@ const Footer = () => {
         </LinkColumn>
       </LinkList>
     </FooterWrapper>
-    
+
   );
 };
-
 export default Footer;

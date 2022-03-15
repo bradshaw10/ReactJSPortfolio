@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Dutch Treat',
     description: "This site is used as to replicate a dutch art website. It uses a .Net core backend and an Angular TypeScript front end.",
-    image: '/images/scanner.jpg',
+    image: '/images/dutchtreat.jpg',
     tags: ['.Net', 'TypeScript', 'Angular'],
     source: 'https://github.com/bradshaw10/DutchTreat',
     visit: 'https://github.com/bradshaw10/DutchTreat',
@@ -47,7 +47,7 @@ export const projects = [
   {
     title: 'NestJS Shop',
     description: "This is the back end for an ecommerce site built using Nest Js and TypeScript. It is linked to a MongoDB database",
-    image: '/images/scanner.jpg',
+    image: '/images/nest.jpg',
     tags: ['NestJS', 'TypeScript', 'MongoDB'],
     source: 'https://github.com/bradshaw10/NestJs-Shop',
     visit: 'https://github.com/bradshaw10/NestJs-Shop',

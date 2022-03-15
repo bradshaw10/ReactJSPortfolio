@@ -18,6 +18,7 @@ const Footer = () => {
         </LinkColumn>
       </LinkList>
     </FooterWrapper>
+    
   );
 };
 

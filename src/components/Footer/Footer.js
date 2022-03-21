@@ -1,5 +1,6 @@
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { DiReact } from 'react-icons/di';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -17,6 +18,7 @@ const Footer = () => {
           <LinkItem href='mailto:eoghanbradshaw@gmail.com'>eoghanbradshaw@gmail.com</LinkItem>
         </LinkColumn>
       </LinkList>
+      <div>This Website was built using React <DiReact size="2rem" /></div>
     </FooterWrapper>
 
   );

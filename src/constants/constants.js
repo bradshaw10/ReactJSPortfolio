@@ -64,8 +64,8 @@ export const TimeLineData = [
 ];
 
 export const acomplishments = [
-  { number: 35, text: 'Open Source Projects'},
+  { number: 35, text: 'Github Projects'},
   { number: 2, text: 'College Degrees', },
   { number: 2, text: 'Sports Coaching Certs', },
-  { number: 5000, text: 'Github Stars', }
+  { number: 4, text: 'Years of professional experience', }
 ];

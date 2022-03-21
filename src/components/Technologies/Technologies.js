@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiAngularSimple, DiDotnet, DiDart } from 'react-icons/di';
+import { DiAngularSimple, DiDotnet, DiDart, DiAndroid } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -29,7 +29,7 @@ const Technologies = () => (
         </ListParagraph>
       </ListItem>
       <ListItem>
-        <DiDart size="3rem" />
+        <DiAndroid size="3rem" />
         <ListTitle>Mobile</ListTitle>
         <ListParagraph>
           Cross platform development through Xamarin Forms, Flutter and Unity. Native development through Android, using both Java and Kotlin.

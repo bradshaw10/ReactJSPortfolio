@@ -8,31 +8,31 @@ const Technologies = () => (
   <SectionDivider />
   <br />
     <SectionTitle>
-      Title
+      Technologies
     </SectionTitle>
     <SectionText>
-      Done a few bits myself alri
+      As mentioned, I have experience working as both a mobile applcations developer and also as full stack. As a mobile developer I have worked with Xamarin Forms, Flutter, Unity and Native Android. While working as Full Stack I have used two seperate stacks, a C# and AngularTS as well as a NestJS backend with  React Frontend.
     </SectionText>
     <List>
       <ListItem>
         <DiAngularSimple size="3rem" />
         <ListTitle>Front-End</ListTitle>
         <ListParagraph>
-          Bit of Angular, touch of React
+          Angular and React. Developed using TypeScript and Javascript.
         </ListParagraph>
       </ListItem>
       <ListItem>
         <DiDotnet size="3rem" />
         <ListTitle>Back-End</ListTitle>
         <ListParagraph>
-          Bit of C# .Net, touch of Nest
+          .Net Core through C# and also NestJS using TypeScripts
         </ListParagraph>
       </ListItem>
       <ListItem>
         <DiDart size="3rem" />
-        <ListTitle>Front-End</ListTitle>
+        <ListTitle>Mobile</ListTitle>
         <ListParagraph>
-          Bit of Xamarin, touch of Flutter
+          Cross platform development through Xamarin Forms, Flutter and Unity. Native development through Android, using both Java and Kotlin.
         </ListParagraph>
       </ListItem>
     </List>

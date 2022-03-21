@@ -44,7 +44,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionText>About Me</SectionText>
       <SectionText>
-        Still Breathing
+      I am an avid fan and practitioner of both Football and Mixed Martial Arts. I have trained and competed in both since I was young, and I am certified to coach both from the respective national governing bodies
+      Programming – I am constantly looking to learn new programming techniques and build my own custom applications. I am currently undertaking a course to become certified in Kotlin and Flutter. All of my personal projects are available on my Github.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

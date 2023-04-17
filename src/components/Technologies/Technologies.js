@@ -25,7 +25,7 @@ const Technologies = () => (
         <DiDotnet size="3rem" />
         <ListTitle>Back-End</ListTitle>
         <ListParagraph>
-          .Net Core through C# and also NestJS using TypeScripts
+          .Net Core through C#, PHP and also NestJS using TypeScripts
         </ListParagraph>
       </ListItem>
       <ListItem>
